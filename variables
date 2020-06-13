@@ -1,0 +1,36 @@
+print('Hannah Mwangi')
+#variables names
+#must start with a letter or underscore characters
+#cannot start with a number
+#can only contain alpha-numeric characters
+#are case sensitive
+#containers of storing data values;its crested when you assign a value
+'''example of variable names'''
+#strings
+#variable names
+variablename = 'Hannah'
+variable_name = 'Hannah'
+_variable_name = 'Hannah'
+myName = 'Hannah'
+MYNAME = 'Hannah'
+my2name = 'Wambui'
+
+#example
+
+#on a shopping programme check in an item such as trouser, the price is 600 and wheather its purchased or not hence find the ratings
+
+#type string
+name='trouser'
+print(name)
+#type of int
+price =600
+print(price)
+#boolean
+is_purchased=True
+#float
+rating =4.0
+print(rating)
+
+
+
+
